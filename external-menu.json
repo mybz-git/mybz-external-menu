@@ -17,6 +17,12 @@
       "url": "https://sp.b-zion.org.il/jci-notes/Pages/default.aspx",
       "order": 3,
       "active": true
+    },
+    {
+      "title": "2 אקרדיטציה",
+      "url": "https://sp.b-zion.org.il/jci-notes/Pages/default.aspx",
+      "order": 3,
+      "active": true
     }
   ]
 }
