@@ -1,13 +1,19 @@
 [
   {
-    title: "הזמנת תורים- בני ציון",
+    title: "המרכז הרפואי בני ציון",
     order: 1,
+    active: true,
+    uri: "https://www.gov.il/he/departments/b-zion-health-center/govil-landing-page"
+  },
+  {
+    title: "הזמנת תורים- בני ציון",
+    order: 2,
     active: true,
     uri: "https://wlappoint-b-zion.health.gov.il/wlzimon/login"
   },
   {
     title: "אקרדיטציה",
-    order: 2,
+    order: 3,
     active: true,
     uri: "https://sp.b-zion.org.il/jci-notes/Pages/default.aspx"
  },
