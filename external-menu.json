@@ -1,26 +1,22 @@
 {
   "links": [
     {
-      "title" : "המרכז הרפואי בני ציון",
-      "url": "https://www.gov.il/he/departments/b-zion-health-center/govil-landing-page"ת
+      "title": "המרכז הרפואי בני ציון",
+      "url": "https://www.gov.il/he/departments/b-zion-health-center/govil-landing-page",
       "order": 1,
-      "active": true,
+      "active": true
     },
     {
-      "title" : "הזמנת תורים- בני ציון",
-      "url": "https://wlappoint-b-zion.health.gov.il/wlzimon/login"
+      "title": "הזמנת תורים- בני ציון",
+      "url": "https://wlappoint-b-zion.health.gov.il/wlzimon/login",
       "order": 2,
-      "active": true,
+      "active": true
     },
     {
-      "title" : "אקרדיטציה",
-      "url": "https://sp.b-zion.org.il/jci-notes/Pages/default.aspx"
+      "title": "אקרדיטציה",
+      "url": "https://sp.b-zion.org.il/jci-notes/Pages/default.aspx",
       "order": 3,
-      "active": true,
+      "active": true
     }
   ]
 }
-
-
-
-
