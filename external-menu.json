@@ -37,7 +37,7 @@
     },
     {
       "title": "חדשות",
-      "url": "https://www.gov.il/he/departments/news?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
+      "url": "https://www.gov.il/he/collectors/news?officeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
       "order": 6,
       "active": true,
       "type": "LINK"
@@ -58,7 +58,7 @@
     },
     {
       "title": "חופש המידע",
-      "url": "https://www.gov.il/he/Departments/General/freedom_of_information_act?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
+      "url": "https://www.gov.il/he/pages/freedom_of_information_act",
       "order": 9,
       "active": true,
       "type": "LINK"
