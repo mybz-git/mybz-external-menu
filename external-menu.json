@@ -12,35 +12,35 @@
       "url": "https://www.gov.il/he/Departments/General/online_appointments_bz?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
       "order": 2,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "מחלקות",
       "url": "https://www.gov.il/he/departments/Units/?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
       "order": 3,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "PET - CT",
       "url": "https://www.gov.il/he/departments/PublicBodies/pet_ct_unit?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
       "order": 4,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "מכונים ומרפאות",
       "url": "https://www.gov.il/he/departments/PublicBodies/?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f&CategoryType=f0e0f19a-f39a-4a50-ba0f-ce662f2246ec",
       "order": 5,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "חדשות",
       "url": "https://www.gov.il/he/collectors/news?officeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
       "order": 6,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "זימון תורים בווטסאפ",
@@ -54,7 +54,7 @@
       "url": "https://www.gov.il/he/pages/bnai_zion_in_your_hand",
       "order": 8,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "חופש המידע",
@@ -68,7 +68,7 @@
       "url": "https://www.gov.il/he/pages/information_for_students_bnz",
       "order": 10,
       "active": true,
-      "type": "LINK"
+      "type": "WEBVIEW"
     },
     {
       "title": "אקרדיטציה",
