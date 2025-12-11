@@ -17,7 +17,7 @@
     {
       "title": "מחלקות",
       "url": "https://www.gov.il/he/departments/Units/?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
-      "order": 3,
+      "order": 7,
       "active": true,
       "type": "WEBVIEW"
     },
@@ -45,7 +45,7 @@
     {
       "title": "זימון תורים בווטסאפ",
       "url": "https://api.whatsapp.com/send?phone=97248359359",
-      "order": 7,
+      "order": 3,
       "active": true,
       "type": "LINK"
     },
