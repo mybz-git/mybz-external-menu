@@ -9,7 +9,7 @@
     },
     {
       "title": "זימון תורים",
-      "url": "https://www.gov.il/he/Departments/General/online_appointments_bz?OfficeId=75d5de74-09f4-43ef-86e2-5adcc4e8b42f",
+      "url": "https://wlappoint-b-zion.health.gov.il/wlzimon/login",
       "order": 2,
       "active": true,
       "type": "WEBVIEW"
